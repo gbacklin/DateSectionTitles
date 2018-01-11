@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17D34a" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="APLEvent" representedClassName="APLEvent">
+        <attribute name="sectionIdentifier" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timestamp" attributeType="Date">
+            <userInfo/>
+        </attribute>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="APLEvent" positionX="261" positionY="189" width="128" height="90"/>
+    </elements>
+</model>
